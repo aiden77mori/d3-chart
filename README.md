@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Clinicial-Chart](https://user-images.githubusercontent.com/89995315/134779502-38d6e5be-be33-4df0-ac07-25a913c9bc5e.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
