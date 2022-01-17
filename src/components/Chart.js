@@ -845,8 +845,6 @@ class Chart extends Component {
         return (
             <div style={{backgroundColor: 'rgb(10, 58, 91)'}}>
                 <div style={{position: 'absolute', left: (this.state.width/1.7)}}>
-                <span style={{color: 'white'}}>MySkypeID: live:.cid.c45f533673f2d580</span>
-                <br />
                     <select className="datePicker daypicker" value={setday} onChange={this.handleDateChange}>
                         <option>29/8/2021</option>
                         <option>28/8/2021</option>
